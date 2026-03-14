@@ -42,7 +42,6 @@ Classification Report
 ---
 
 ## Architecture
-
 ```
 Raw Email Input
       │
@@ -61,8 +60,6 @@ Classification Head  ──  linear layer → 2 outputs (SAFE / PHISHING)
       ▼
 FastAPI + ngrok  ──  live REST API with /classify and /batch endpoints
 ```
-
----
 
 ## Dataset
 
