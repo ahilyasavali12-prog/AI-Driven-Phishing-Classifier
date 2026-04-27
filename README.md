@@ -16,7 +16,7 @@ Most phishing detectors rely on keyword lists and rule-based filters — attacke
 
 The result is a classifier that catches phishing emails a rule-based filter would miss, with a false positive rate of just **0.3%** — meaning legitimate emails almost never get wrongly flagged.
 
----
+---   
 
 ## Results
 
